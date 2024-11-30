@@ -15,7 +15,7 @@ metrics for d_test_tiny:
 metrics for d_test_small:
 	 accuracy 0.9411:
 	 balanced accuracy 0.9411:
-#LBL1
+
 metrics for d_test_big:
 	 accuracy 0.9458:
 	 balanced accuracy 0.9458:
